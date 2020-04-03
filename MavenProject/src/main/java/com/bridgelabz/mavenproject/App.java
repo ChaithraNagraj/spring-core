@@ -4,11 +4,6 @@
  *  		 helps us to add and remove dependency which is required for project
  *  		 using pom.xml file we are configuring xml but getting beans by using
  *  		 annotation only @Component
- *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   14-10-2019
- *
  ******************************************************************************/
 
 package com.bridgelabz.mavenproject;
