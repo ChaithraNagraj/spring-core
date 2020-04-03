@@ -5,9 +5,6 @@
  *  		 required for project using pom.xml file we are configuring xml but
  *  		 getting beans by using annotation only 
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   14-10-2019
  *
  ******************************************************************************/
 
