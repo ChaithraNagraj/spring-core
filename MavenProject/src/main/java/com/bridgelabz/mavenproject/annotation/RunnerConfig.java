@@ -2,10 +2,7 @@
  *  Purpose: Program is written for configuring the application with the use
  *  		 @Configuration annotation which can provide object to application
  *  		 @Bean annotation is used to create object of particular class
- *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   12-10-2019
+ 
  *
  ******************************************************************************/
 
